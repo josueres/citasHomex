@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/new/iconos">
+        <file>icons/7days.png</file>
+        <file>icons/about_kde.png</file>
+        <file>icons/ADDNEW.png</file>
+        <file>icons/aim_protocol.png</file>
+        <file>icons/applixware.png</file>
+        <file>icons/apply.png</file>
+        <file>icons/button_cancel.png</file>
+        <file>icons/cell_layout.png</file>
+        <file>icons/encrypted.png</file>
+        <file>icons/energy.png</file>
+        <file>icons/enhanced_browsing.png</file>
+        <file>icons/fonts.png</file>
+        <file>icons/goto.png</file>
+        <file>icons/groupevent.png</file>
+        <file>icons/help.png</file>
+        <file>icons/history.png</file>
+        <file>icons/inbox.png</file>
+        <file>icons/info.png</file>
+        <file>icons/inline_table.png</file>
+        <file>icons/irc_channel.png</file>
+        <file>icons/kopete.png</file>
+        <file>icons/lock.png</file>
+        <file>icons/middle.png</file>
+        <file>icons/money.png</file>
+        <file>icons/reload3.png</file>
+        <file>icons/search.png</file>
+        <file>icons/portada_r1_c1.png</file>
+    </qresource>
+</RCC>
